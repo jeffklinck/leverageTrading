@@ -1,5 +1,3 @@
-//forge create LeverageTrading \--constructor-args "0x2f39d218133AFaB8F2B819B1066c7E434Ad94E9e" "0x1F98431c8aD98523631AE4a59f267346ea31F984" \--interactive
-
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.4;
 
